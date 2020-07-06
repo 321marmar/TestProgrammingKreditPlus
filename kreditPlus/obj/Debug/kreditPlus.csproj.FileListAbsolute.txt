@@ -1,0 +1,6 @@
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\bin\Debug\kreditPlus.exe.config
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\bin\Debug\kreditPlus.exe
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\bin\Debug\kreditPlus.pdb
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\obj\Debug\kreditPlus.csprojResolveAssemblyReference.cache
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\obj\Debug\kreditPlus.exe
+c:\users\arrogant\documents\visual studio 2017\Projects\kreditPlus\kreditPlus\obj\Debug\kreditPlus.pdb
